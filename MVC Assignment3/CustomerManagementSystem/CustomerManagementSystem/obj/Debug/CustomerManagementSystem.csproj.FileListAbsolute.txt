@@ -1,0 +1,2 @@
+C:\Users\acer\OneDrive\Desktop\MVC Assignment3\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\MVC Assignment3\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.CoreCompileInputs.cache
